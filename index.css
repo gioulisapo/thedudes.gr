@@ -1,0 +1,20 @@
+body {
+    background-color: #424242;
+}
+html,body {
+
+    height: 100%;
+    width: 100%;
+ 
+ }
+ 
+.empty.div {
+    min-height: 33%;
+    display: block;
+    color: #424242;
+}
+h1 {
+    margin-top: 350px;
+    color: #FAFAFA;
+    font-size: 64px;
+}
